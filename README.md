@@ -1,5 +1,6 @@
-# citation-styles
-You can download your citation styles, and import them to your citation manager. For example, here are two instructions for Zotero and Mendeley.  
+# Citation-styles
+Citation styles can be downloaded and imported into your citation manager. The following instructions are for Zotero and Mendeley, respectively.
+
 #### How to install it on Zotero
 please see this instruction: https://youtu.be/V20Fi-WrRXo
 #### How to install it on Mendeley
